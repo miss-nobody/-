@@ -1,0 +1,53 @@
+body{
+    background-color:#000000;
+}
+header{
+      width: 100%;
+      height:100px;
+      margin:0;
+      padding:0;
+      line-height:100px;
+      border:0 solid white;
+}
+p.header{
+        text-align:center;
+        font-size:40px;
+        font-family: 'Comic 5ans M5|';
+        color:#8B0000;
+        margin:0;
+        padding:0;
+}
+h1.ang{
+      text-align:center;
+      font-size:15px;
+      font-family: 'Monotype Corsiva';
+      color:#FFFFFF;
+      margin:0;
+}
+p.angl{
+      text-align:left;
+      font-size:8px;
+      font-family: 'Courier New';
+      color:#2F4F4F;
+      margin:5px 5px 0 0;
+      padding:20px 0 0 0;
+}
+article{
+       width: 100%;
+       height:180px;
+       margin:50px 0 0 0;
+       padding:0;
+       border:0px solid white;
+       background-color:#000000;
+}
+section{
+       width: 105px;
+       height: 100%;
+       margin: 0px 15px 0px 5px;
+       padding:0;
+       background-color:#000000;
+       float: left;
+       border-radius:0;
+       border: 0px solid orange;
+       box-shadow: 1px 0 0 0 slategrey;
+}
